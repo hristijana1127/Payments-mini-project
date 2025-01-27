@@ -6,12 +6,11 @@ A simple Payments web app built to track data for payments. Currently a work in 
 
 ## Features
 Here are some of the main features of the project so far:
--**Spring Boot 3**: Designed with a layered architecture including controllers, services, and repositories.
--**Database**: Utilizes PostgreSQL 17 for relational database management.
--**DTO Mapping**: Implemented with MapStruct for efficient mapping of data transfer objects (DTOs).
--**Persistence**: Built using JPA, Hibernate, and Spring Data JPA for repository management.
--**Docker Integration**: Docker Compose is used for setting up and managing the database.
-
+- **Spring Boot 3**: Designed with a layered architecture including controllers, services, and repositories.
+- **Database**: Utilizes PostgreSQL 17 for relational database management.
+- **DTO Mapping**: Implemented with MapStruct for efficient mapping of data transfer objects (DTOs).
+- **Persistence**: Built using JPA, Hibernate, and Spring Data JPA for repository management.
+- **Docker Integration**: Docker Compose is used for setting up and managing the database.
 
 ## Current Limitations
 There are areas of the project that need further work:
